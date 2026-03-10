@@ -1,4 +1,4 @@
-import mohanlal from "./assets/mohanlal.png"
+import mohanlal from "./assets/Mohanlal.png"
 import mammootty from "./assets/mammootty.png"
 import dulquer from "./assets/dulquer.png"
 import nazriya from "./assets/nazriya.png"
